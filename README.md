@@ -19,11 +19,10 @@ _Brackeys' health bar:_
 - https://github.com/Brackeys/Health-Bar
 
 ## Controls:
-
-_WASD_ keys to move
-_Left Mouse Button_ to swing sword and cast spells from wand
-_'1' and '2' keys_ (not the numpad keys) to switch between sword and wand
-_Mouse_ to aim
+- _WASD_ keys to move
+- _Left Mouse Button_ to swing sword and cast spells from wand
+- _'1' and '2' keys_ (not the numpad keys) to switch between sword and wand
+- _Mouse_ to aim
 
 ### _You can play the submitted game here_:
 _https://cyrusvillaruz.itch.io/turtiniaorigin_
