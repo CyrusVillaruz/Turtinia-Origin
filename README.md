@@ -1,6 +1,6 @@
 # A 2D Top-Down Unity project submission for the "Save Our Earth" Game Jam.
 
-## Setting (super basic, probably not that interesting honestly, and made up on some random day at 12am): 
+## Setting: 
 _Monsters that thrive off high temperatures have invaded the polluted planet Earth. They have destroyed all nature and wildlife. All but one plant, rumored to be able to restore this (rather fictional) planet Earth back to its original state before the start of pollution. This plant, however, has caught the attention of these monsters due to its unique growing feature, requiring only the presence of the only unique species in Earth (the player) to grow.  Defend the monsters while this plant grows so that the Earth can be inhabitable again!_
 
 ## Assets Used:
