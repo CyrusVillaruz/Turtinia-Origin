@@ -6,17 +6,17 @@ _Monsters that thrive off high temperatures have invaded the polluted planet Ear
 ## Assets Used:
 
 _Both versions of 0x72's Dungeon Tileset:_
-https://0x72.itch.io/16x16-dungeon-tileset
-https://0x72.itch.io/dungeontileset-ii
+- https://0x72.itch.io/16x16-dungeon-tileset
+- https://0x72.itch.io/dungeontileset-ii
 
 _Sprout Lands by Cup Nooble:_
-https://cupnooble.itch.io/sprout-lands-asset-pack
+- https://cupnooble.itch.io/sprout-lands-asset-pack
 
 _Warped Shooting Fx by Ansimuz:_
-https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shoo...
+- https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shoo...
 
 _Brackeys' health bar:_
-https://github.com/Brackeys/Health-Bar
+- https://github.com/Brackeys/Health-Bar
 
 ## Controls:
 
