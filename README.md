@@ -24,5 +24,5 @@ _Brackeys' health bar:_
 - _'1' and '2' keys_ (not the numpad keys) to switch between sword and wand
 - _Mouse_ to aim
 
-### _You can play the submitted game here_:
+### You can play the submitted game here:
 _https://cyrusvillaruz.itch.io/turtiniaorigin_
